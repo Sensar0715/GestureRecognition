@@ -1,0 +1,34 @@
+# These are the non-digit gesture classes from Hagrid dataset
+# They are SET ASIDE and will NOT be used for training
+# Total: 30 classes
+
+1. call
+2. dislike
+3. fist
+4. grabbing
+5. grip
+6. hand_heart
+7. hand_heart2
+8. holy
+9. like
+10. little_finger
+11. middle_finger
+12. mute
+13. no_gesture
+14. ok
+15. palm
+16. peace
+17. peace_inverted
+18. point
+19. rock
+20. stop
+21. stop_inverted
+22. take_picture
+23. three_gun
+24. three2
+25. three3
+26. thumb_index
+27. thumb_index2
+28. timeout
+29. two_up_inverted
+30. xsign

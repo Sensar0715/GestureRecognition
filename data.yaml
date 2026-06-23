@@ -1,0 +1,20 @@
+# YOLO 手势数字识别数据集 (0-9 digits)
+# 非数字手势已排除，放在 non_digit_gestures/ 文件夹中
+
+path: .
+train: dataset/images/train
+val: dataset/images/val
+
+names:
+  0: zero
+  1: one
+  2: two
+  3: three
+  4: four
+  5: five
+  6: six
+  7: seven
+  8: eight
+  9: nine
+
+nc: 10

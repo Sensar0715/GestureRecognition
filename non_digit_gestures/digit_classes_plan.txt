@@ -1,0 +1,17 @@
+# Digit Gesture Classes (0-9) - Training Plan
+
+## Already have training data:
+  6  (six)   - 100 images collected
+  7  (seven) - 100 images collected
+  8  (eight) - 100 images collected
+  9  (nine)  - 100 images collected
+
+## From Hagrid pre-trained model (can use for transfer learning):
+  1  (one)
+  2  (two_up)
+  3  (three)
+  4  (four)
+
+## STILL NEED TO COLLECT:
+  0  (zero)  - NEED TO COLLECT
+  5  (five)  - NEED TO COLLECT

@@ -1,0 +1,42 @@
+# Build artifacts
+Gesture.exe
+Gesture.exe_extracted/
+
+# PyInstaller runtime dependencies
+_internal/
+
+# Datasets (excluded from version control)
+dataset/
+training_samples/
+
+# Training outputs
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite runtime data
+smartvision_data.db
+smartvision_data.db-shm
+smartvision_data.db-wal
+
+# Extractor tool
+pyinstxtractor.py
+
+# Decompiled stub (empty)
+Gesture_decompiled.py
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
