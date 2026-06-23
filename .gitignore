@@ -1,5 +1,4 @@
-# Build artifacts
-Gesture.exe
+# Extracted EXE internals
 Gesture.exe_extracted/
 
 # PyInstaller runtime dependencies
@@ -9,8 +8,13 @@ _internal/
 dataset/
 training_samples/
 
-# Training outputs
-runs/
+# Training outputs (only keep best model)
+runs/*
+!runs/digit_gesture/
+runs/digit_gesture/*
+!runs/digit_gesture/weights/
+runs/digit_gesture/weights/*
+!runs/digit_gesture/weights/best.pt
 
 # Python cache
 __pycache__/
